@@ -9,12 +9,12 @@
 
 
 
-###### D_01_APKInfo
+### D_01_APKInfo
 
 
 ![Screen](/D_01_APKInfo/Image/Screenshot_2014-07-03-18-00-53.png)
 
-* Detail 
+###### Detail 
 1. List all the app that you had installed in your phone. see in code [Utils.getLocalApp(Context context)](/D_01_APKInfo/src/main/java/com/houny/apkinfo/Util/Utils.java)
 2. Click the one item it will launch the app
 3. Click the **Shortcut** Button it will create a shortcut for that app on your screen.see in code [Utils.addShortcutToHomeScreen(Context context, String pkg)](/D_01_APKInfo/src/main/java/com/houny/apkinfo/Util/Utils.java)
