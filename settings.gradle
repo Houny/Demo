@@ -1,0 +1,3 @@
+include ':D_01_APKInfo', ':D_03_Shortcut', ':Demo_04_Ping', ':D_05_Sensor', ':D_06_Location', 'D_07_NFC_Card'
+include ':Libs_SuperUser'
+include ':D_Github_DevDrawer'

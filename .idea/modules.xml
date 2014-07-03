@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/D_01_APKInfo/D_01_APKInfo.iml" filepath="$PROJECT_DIR$/D_01_APKInfo/D_01_APKInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_03_Shortcut/D_03_Shortcut.iml" filepath="$PROJECT_DIR$/D_03_Shortcut/D_03_Shortcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_05_Sensor/D_05_Sensor.iml" filepath="$PROJECT_DIR$/D_05_Sensor/D_05_Sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_06_Location/D_06_Location.iml" filepath="$PROJECT_DIR$/D_06_Location/D_06_Location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_07_NFC_Card/D_07_NFC_Card.iml" filepath="$PROJECT_DIR$/D_07_NFC_Card/D_07_NFC_Card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_Github_DevDrawer/D_Github_DevDrawer.iml" filepath="$PROJECT_DIR$/D_Github_DevDrawer/D_Github_DevDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_04_Ping/Demo_04_Ping.iml" filepath="$PROJECT_DIR$/Demo_04_Ping/Demo_04_Ping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libs_SuperUser/Libs_SuperUser.iml" filepath="$PROJECT_DIR$/Libs_SuperUser/Libs_SuperUser.iml" />
+    </modules>
+  </component>
+</project>
+

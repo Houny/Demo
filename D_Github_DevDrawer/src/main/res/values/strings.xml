@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevDrawer</string>
+    <array name="sorting_options">
+        <item>Order Added</item>
+        <item>Alphabetically</item>
+    </array>
+    <array name="sorting_options_values">
+        <item>added</item>
+        <item>alphabetically</item>
+    </array>
+    <array name="widget_themes">
+        <item>Light</item>
+        <item>Dark</item>
+    </array>
+    <string name="no_main_activity_could_be_found">No main activity could be found.\nEnable the activity chooser dialog.</string>
+    <string name="package_does_not_exist">The package selected is no longer installed, if this has been uninstalled please click remove</string>
+    <string name="remove">Remove</string>
+    <string name="uninstalled">Uninstalled?</string>
+
+    <!-- New -->
+    <string name="packagefilter">PACKAGE FILTER:</string>
+    <string name="yourcompanyhint">your.company.*</string>
+    <string name="addlocales">ADD LOCALES:</string>
+    <string name="localeHint">Language name or code</string>
+    <string name="change">Change</string>
+    <string name="change_locale_dialog_title">Change Default Locale?</string>
+    <string name="change_locale_dialog_text">Change the phones default locale to </string>
+    <string name="yes">Yes</string>
+
+    <array name="launching_intents">
+        <item>AOSP Launcher</item>
+        <item>DevDrawer Original Config</item>
+    </array>
+    <array name="launching_intents_values">
+        <item>aosp</item>
+        <item>devdrawer</item>
+    </array>
+
+</resources>

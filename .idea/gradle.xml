@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/D_01_APKInfo" />
+            <option value="$PROJECT_DIR$/D_03_Shortcut" />
+            <option value="$PROJECT_DIR$/D_05_Sensor" />
+            <option value="$PROJECT_DIR$/D_06_Location" />
+            <option value="$PROJECT_DIR$/D_07_NFC_Card" />
+            <option value="$PROJECT_DIR$/D_Github_DevDrawer" />
+            <option value="$PROJECT_DIR$/Demo_04_Ping" />
+            <option value="$PROJECT_DIR$/Libs_SuperUser" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
