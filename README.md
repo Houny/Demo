@@ -12,7 +12,7 @@
 ## D_01_APKInfo
 
 
-![Screen](https://github.com/Houny/Demo/blob/master/D_01_APKInfo/Image/Screenshot_2014-07-03-18-00-53.png)
+![Screen](/D_01_APKInfo/Image/Screenshot_2014-07-03-18-00-53.png)
 
 
 
